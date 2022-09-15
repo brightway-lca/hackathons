@@ -11,3 +11,4 @@ We currently have four project ideas for the [Brightcon 2022 hackathon](https://
 * Make LCA calculation reproducible. Tag `reproducible`
 * Make Brightway work with the ILCD format. Tag `ILCD`
 * Design document for how a family of LCIA methods should be stored and used in `MultiLCA`. Tag `method-family`.
+* Develop simple data exchange platform. Tag `inventory-exchange`.
