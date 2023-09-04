@@ -2,6 +2,14 @@
 
 Hackathons need some structure to be productive. This repo allows people running hackathons on Brightway to have a central organization point without being too prescriptive on how hackthons or project ideas are set up.
 
+## Brightcon 2023
+
+The hackathon topics are given as [issues in the hackathons repo](https://github.com/brightway-lca/hackathons/labels/brightcon2023). Around 30 people are registered for the hackathon.
+
+The hackathon runs from 10:00 (registration at 9:30) Saturday morning to 17:00 on Sunday. Hackathon participants are invited to a social evening on Sunday evening.
+
+Hackthon results should be presented on Wednesday, Sept. 20, at 13:00.
+
 ## Brightcon 2022
 
 We currently have the following project ideas for the [Brightcon 2022 hackathon](https://2022.brightcon.link/hackathon); they are organized as issues.
